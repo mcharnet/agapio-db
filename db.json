@@ -1,4 +1,5 @@
-[
+{
+    "invoices": [
     {
       "_id": "5d64f315ce2aaf4101bf76a2",
       "fournisseur": "Carr",
@@ -81,3 +82,4 @@
       "restaurant": "Menbrain"
     }
   ]
+}
